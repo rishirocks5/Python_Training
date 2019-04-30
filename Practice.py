@@ -1,3 +1,3 @@
-Print("Hello World")
+print("Hello World")
 print("3+3")
-Print(2+2)
+print(2+2)
